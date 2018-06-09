@@ -1,9 +1,5 @@
 ChatBot with Angular 5 & DialogFlow
 
-<p align="center">
-  <img src="screenshot.gif" width="70%"/>
-</p>
-
 ## Run
 
 ```
